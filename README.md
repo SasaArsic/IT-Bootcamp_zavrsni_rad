@@ -37,7 +37,7 @@
  <li>Install and download XAMPP at https://www.apachefriends.org/download.html</li>
   <li>clone the repo git clone https://github.com/SasaArsic/IT-Bootcamp_zavrsni_rad</li>
   <li>Open XAMPP and start Apache</li>
-  <li>In browser go tohttp://localhost/IT-BOOTCAMP-zavrsni_rad/IT-Bootcamp_zavrsni_rad/final_work/</li>
+  <li>In browser go to http://localhost/IT-BOOTCAMP-zavrsni_rad/IT-Bootcamp_zavrsni_rad/final_work/</li>
   </ul>
   
  
